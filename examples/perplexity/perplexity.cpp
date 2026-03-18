@@ -10,6 +10,7 @@
 #include <cstdio>
 #include <cstring>
 #include <ctime>
+#include <chrono>
 #include <fstream>
 #include <mutex>
 #include <random>
